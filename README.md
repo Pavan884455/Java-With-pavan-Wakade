@@ -39,16 +39,7 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanwakade&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanwakade&show_icons=true&locale=en&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavanwakade&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <!-- Adding thank you text animation -->
 <h2 align="center">
