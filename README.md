@@ -46,4 +46,3 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=500&color=00FF00&width=435&lines=Thank+you+for+visiting+my+profile!" alt="Thank You Animation" />
   </a>
 </h2>
-
